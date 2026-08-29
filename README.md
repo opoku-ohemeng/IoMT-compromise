@@ -10,7 +10,7 @@ to guarantee patient safety under microarchitectural credential compromise and h
 
 - `src/models.py`: PyTorch implementations of the 1D Denoising Autoencoder (DAE) and ECG Diagnostic Classifier.
 - `src/data.py`: PhysioNet MIT-BIH Arrhythmia database streaming and preprocessing functions.
-- `scripts/generate_figures.py`: End-to-end benchmarking script generating publication-quality figures (Figures 1–4).
+- `scripts/generate_figures.py`: End-to-end benchmarking script generating figures.
 
 ## Installation
 
